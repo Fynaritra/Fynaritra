@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Finaritra. I am a Software Engineer from Madagascar MG, and currently live in Paris. I have over 6 years of product development experience in Java, JS ans TS, plus Microservices & Cloud. 
+My name is Finaritra. I am a Software Engineer from Madagascar MG, and currently live in Paris. I have over 6 years of product development experience in Java, JS and TS, plus Microservices & Cloud. 
 
 📩 finaritra.mickaelle@gmail.com 
 <!--
